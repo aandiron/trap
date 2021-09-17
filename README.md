@@ -1,5 +1,5 @@
 README.md
-Last modified: Mon Jan 18, 2021  02:13PM
+Last modified: Fri Sep 17, 2021  06:08PM
 
 # How the Mouse Takes the Cheese
 * By A. Andiron
@@ -12,7 +12,6 @@ Last modified: Mon Jan 18, 2021  02:13PM
 
 ## Compilation notes:
 * Use pandoc to compile .md into whatever format you like.
-* -medium version is adapted slightly for posting to Medium.
 
 ## License:
 * Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
